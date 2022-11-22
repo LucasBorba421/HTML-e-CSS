@@ -1,0 +1,50 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    color: white;
+    font: 20px Arial;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.js {
+  margin-left: 15%;
+margin-right: 15%;
+}
+
+.html {
+    margin-left: 23%;
+    margin-right: 23%;
+}
+
+.hardware {
+    margin-left: 17%;
+    margin-right: 17%
+}
+
+.python {
+    margin-left: 21%;
+    margin-right: 21%
+}
+
+.curso {
+    margin:17px 0 0 0;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
+.voltar {
+    margin:17px 0 0 0;
+    margin-left: 43%;
+    margin-right: 43%;
+}
+
+a {
+    font: Arial;
+    color:white;
+}
+
